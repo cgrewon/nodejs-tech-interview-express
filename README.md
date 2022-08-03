@@ -10,11 +10,6 @@
 yarn
 ```
 
-or
-
-```shell
-npm install --save
-```
 
 ## Server run
 
